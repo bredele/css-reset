@@ -1,5 +1,4 @@
-
-# maple-reset
+# css-reset
 
   CSS reset
 
@@ -7,7 +6,7 @@
 
   Install with [component](http://component.io):
 
-    $ component install leafs/maple-reset
+    $ component install bredele/css-reset
 
 
 ## License
