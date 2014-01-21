@@ -1,6 +1,6 @@
 {
-  "name": "maple-reset",
-  "repo": "leafs/maple-reset",
+  "name": "css-reset",
+  "repo": "bredele/css-reset",
   "description": "CSS reset",
   "version": "0.0.1",
   "keywords": [],
